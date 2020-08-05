@@ -1,5 +1,11 @@
 oi
 
-tudo bem?
+
+if{
+isso tudo bem?
+} 
+
+tudo traaquilo por aqui
  
+
 Sao Paulo eliminado
